@@ -1,0 +1,2 @@
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\Debug\C++_RSA.exe
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\Debug\C++_RSA.pdb

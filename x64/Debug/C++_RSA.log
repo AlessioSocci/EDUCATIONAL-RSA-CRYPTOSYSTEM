@@ -1,0 +1,7 @@
+﻿  RSA.cpp
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\RSA.cpp(97,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\RSA.cpp(108,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\RSA.cpp(109,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\RSA.cpp(131,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\RSA.cpp(320,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++_RSA.vcxproj -> C:\Users\A\Documents\Progetti C++\Visual Studio 2019\C++_RSA\x64\Debug\C++_RSA.exe
